@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfff1d3e-035d-4738-8f81-dfb69555b9a4/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190986034-5096ee4c-66db-49a1-ae4e-99f083f66319.png)
 
 Date : 2022.3.17~2022.3.22
 
