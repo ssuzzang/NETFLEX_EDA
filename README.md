@@ -1,7 +1,20 @@
-# section2_project
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfff1d3e-035d-4738-8f81-dfb69555b9a4/Untitled.png)
 
-![image](https://user-images.githubusercontent.com/97435321/190890309-1c055dce-484c-4cf9-b998-e471949a00fa.png)
+Date : 2022.3.17~2022.3.22
 
+Tags : `sklearn` `Regression` `OneHotEncoder`
+
+Link 
+
+[https://github.com/ssuzzang/section2_project.git](https://github.com/ssuzzang/section2_project.git)
+
+발표영상
+
+[Portfolio_1_발표영상](https://youtu.be/igmZMTnZjKs)
+
+---
+
+내용
 
 - 주제 :  넷플릭스 시청 데이터 분석
 - 선택이유 : 넷플릭스 너무 많은 영상이 등록되어 있기때문에 한편을 시청하기 위해 검색에 너무 많은 시간이 소모됩니다. 다른 사람들은 어떤 것을 많이 보는지 연도별, 연령대, 나라, 장르 등 여러가지 시점에서 분석하여 보았습니다.
@@ -51,4 +64,10 @@
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b222ae7-02b8-4a50-b56e-0007e4ad7941/Untitled.png)
 
--
+---
+
+- 결론
+    - ‘할리우드 리포터’ 와 ‘모닝 컨설트’ 가 실시한 설문조사에 따르면 넷플릭스 시청 성비는 48 : 52로 균등하며, 구독자 50%는 연간 평균 수입이 5만 달리 미만이고, 30%는 5만~10만 달러 나머지는 10만 달러 이상 인것으로 나타나있습니다.
+    - 넷플릭스는 현제 모든 OTT서비스중 가장 많은 구독자를 보유하고 있다.
+    - 경쟁이 매우 심한 시장이므로 디즈니플러스는 단일 서비스로 출시 1년만에 9500만명의 고객을 확보하였는데 넷플릭스는 이 정도 고객을 유치하는데 9년이 걸렸다.
+    - 아직은 넷플릭스가 구독자 보유 1위지만 계속 최고의 자리를 유지 할지 아무도 모르는 일이다.
